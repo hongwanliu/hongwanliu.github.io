@@ -5,4 +5,4 @@
 layout: home
 ---
 
-Hi! I'm a physicist working at the intersection of cosmology, astroparticle physics and high-energy phenomenology. 
+Hi! I'm a physicist working at the intersection of cosmology, astroparticle physics and high-energy phenomenology. I am interested in all things beyond the Standard Model of particle physics and cosmology. 
