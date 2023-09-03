@@ -5,6 +5,4 @@
 layout: home
 ---
 
-# Hello World!
-
-Hello? Testing?
+Hi! I'm a physicist working at the intersection of cosmology, astroparticle physics and high-energy phenomenology. 
