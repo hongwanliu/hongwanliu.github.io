@@ -5,10 +5,7 @@ permalink: /about/
 ---
 
 
-
-Does this get updated somehow?
-
-Hello??
+*Hongwan Liu* is currently jointly appointed as the Schramm fellow for theoretical astrophysics at Fermilab, and a postdoctoral fellow at the Kavli Institute for Cosmological Physics (KICP), the University of Chicago. 
 
 <!-- This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/) -->
 
