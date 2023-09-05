@@ -4,10 +4,10 @@ title: About
 permalink: /about/
 ---
 
-![Ithaca is Gorges.](/about/ithaca.jpg)
+![Me in Ithaca. Ithaca is Gorges.](/images/ithaca.jpg)
 
 
-**Hongwan Liu** is currently the Schramm fellow for theoretical astrophysics at [Fermilab](https://theory.fnal.gov/), and a postdoctoral fellow of the Kavli Institute for Cosmological Physics ([KICP](https://kavlicosmo.uchicago.edu/)) at the University of Chicago. From 2019 -- 2023, he was jointly appointed as a postdoctoral associate at New York University's Center for Cosmology and Particle Physics ([CCPP](https://cosmo.nyu.edu)), and at [Princeton University](https://www.mariangelalisanti.com/).
+Hongwan is currently the Schramm fellow for theoretical astrophysics at [Fermilab](https://theory.fnal.gov/), and a postdoctoral fellow of the Kavli Institute for Cosmological Physics ([KICP](https://kavlicosmo.uchicago.edu/)) at the University of Chicago. From 2019 -- 2023, he was jointly appointed as a postdoctoral associate at New York University's Center for Cosmology and Particle Physics ([CCPP](https://cosmo.nyu.edu)), and at [Princeton University](https://www.mariangelalisanti.com/).
 
 He received his PhD in physics from MIT in 2019, and his BA in physics and mathematics from Cornell University in 2011. 
 
