@@ -1,6 +1,6 @@
 ---
 layout: page
 title: Dark Photons
-permalink: /dark_photons/
+permalink: /research/dark_photons/
 usemathjax: true
 ---

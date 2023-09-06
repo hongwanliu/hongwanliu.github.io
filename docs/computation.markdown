@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Computational Methods
-permalink: /computation/
+permalink: /research/computation/
 usemathjax: true
 ---
 
