@@ -4,7 +4,8 @@ title: About
 permalink: /about/
 ---
 
-![Me in Ithaca. Ithaca is Gorges.](/images/ithaca.jpg)
+![Me in Ithaca. Ithaca is Gorges.](/images/ithaca.jpg){:style="width: 600px; display: block; margin-left:auto; margin-right:auto"}
+<!-- {: "text-align: center"} -->
 
 
 Hongwan is currently the Schramm fellow for theoretical astrophysics at [Fermilab](https://theory.fnal.gov/), and a postdoctoral fellow of the Kavli Institute for Cosmological Physics ([KICP](https://kavlicosmo.uchicago.edu/)) at the University of Chicago. From 2019 -- 2023, he was jointly appointed as a postdoctoral associate at New York University's Center for Cosmology and Particle Physics ([CCPP](https://cosmo.nyu.edu)), and at [Princeton University](https://www.mariangelalisanti.com/).

@@ -5,27 +5,39 @@ permalink: /research/energy_injection/
 usemathjax: true
 ---
 
-Many extensions of the Standard Model of particle physics predict new particles that are present in the early Universe. These new particles may also include dark matter (DM). These new particles may decay or annihilate into high-energy, electromagnetically interacting Standard Model particles, such as electrons, positrons and photons. Other hypothetical astrophysical objects, such as primordial black holes, are also expected to emit high-energy Standard Model particles. 
 
-As these particles travel across the Universe, they encounter the cosmic microwave background (CMB), hydrogen atoms or free electrons (which cosmologists refer to as 'baryons'), cascading into other, lower energy particles. They also deposit their energy into the CMB or the baryons. This energy deposition could manifest itself as increased **ionization** and **heating** in the baryons, or as the appearance of **low-energy photons** on top of the expected blackbody CMB spectrum. 
-
-*Our goal is to look for extra ionization, heating or low-energy photons that could have originated from such new physics processes.*
+>*New physics processes can inject extra ionization, heating or low-energy photons, leaving striking experimental signatures in cosmological datasets.*
+{: style="font-size: 200%; color:#C90505; text-align:left; font-family:Times New Roman"}
 
 
-## DarkHistory
-[Computational methods](/research/computation/) is extremely important to this. Calculating how high-energy particles cascade into lower energy particles and deposit their energy into baryons can be accomplished with [**DarkHistory**](https://github.com/hongwanliu/DarkHistory) [[1--3](#bib_1)]. This code is publicly available and easy to modify. Out of the box, you can specify a DM model with some decay or annihilation rate into some spectrum of electrons and photons, and obtain the ionization, temperature and low-energy photon spectrum as a function of time. This can self-consistently include reionization as well. 
+Many extensions of the Standard Model of particle physics predict new particles that are present in the early Universe. These new particles may also include dark matter (DM). They may decay or annihilate into high-energy, electromagnetically interacting Standard Model particles, such as electrons, positrons and photons. Other hypothetical astrophysical objects, such as primordial black holes, are also expected to emit high-energy Standard Model particles. 
+
+
+As these particles travel across the Universe, they encounter the cosmic microwave background (CMB), hydrogen atoms or free electrons (which cosmologists refer to as 'baryons'), cascading into other, lower energy particles. They also deposit their energy into the CMB or the baryons. This energy deposition could manifest itself as increased ionization and heating in the baryons, or as the appearance of low-energy photons on top of the expected blackbody CMB spectrum. 
+
+[Computational methods](/research/computation/) are extremely important to predicting this signal. Calculating how high-energy particles cascade into lower energy particles and deposit their energy into baryons can be accomplished with [DarkHistory](https://github.com/hongwanliu/DarkHistory) [[1--3](#bib_1)]. This code is publicly available and easy to modify. 
+
 
 
 ![DarkHistory calculation os ionization and temperature histories, showing self-consistent calculation of reionization and DM effects.](/images/DHv1.jpg)
+Figure 1. *DarkHistory calculation of the ionization and temperature histories of our Universe, including reionization and dark matter energy injection effects self-consistently.*
+{: style="font-size: 90%; text-align: left;"}
 
 
-## Experimental Signatures
-Given an exotic source of energy injection, and its predicted increase ionization, heating or low-energy photons, we can now look for experimental signatures of these changes. We have shown how to use the Lyman-$\alpha$ forest---which is sensitive to excess heating in a redshift range of $2 \lesssim z \lesssim 5$---to search for dark matter annihilation and decay [[4](#bib_4)], as well as [dark photon](/research/dark_photons/) DM [[5--7](#bib_5)]. 
+
+Given an exotic source of energy injection, and its predicted contribution to ionization, heating or low-energy photons, we can now look for experimental signatures of these changes. Observations of the Lyman-$\alpha$ forest---which is sensitive to excess heating in a redshift range of $2 \lesssim z \lesssim 5$---can be used to search for excess heating from dark matter annihilation and decay [[4](#bib_4)], as well as [dark photon](/research/dark_photons/) DM converting into low-energy photons that subsequently heat baryons [[5--7](#bib_5)]. 
 
 ![Strong constraints on ultralight dark photon dark matter from Lyman-alpha.](/images/lyman_DPDM.jpg){: width="70%"}
 {: style="text-align: center;"}
+Figure 2. *Strong constraints on ultralight dark photon dark matter from Lyman-$\alpha$ data, which is highly sensitive to excess heating arising from dark photon dark matter converting into low-energy photons that are subsequently absorbed.*
+{: style="font-size: 90%; text-align: left;"}
 
-Ionization, heating and low-energy photons can also leave a significant imprint on the [21-cm signal](/research/21cm/), an up-and-coming cosmological probe that will soon teach us a lot about the cosmic dark ages. We find that the 21-cm global signal is extraordinarily sensitive to DM decay, and has the potential to discover DM decaying with lifetimes that are currently one or two orders of magnitude too small to detect [[8](#bib_8)]. DM processes can also have a significant impact on star formation [[9](#bib_9)]. 
+Ionization, heating and low-energy photons can also leave a significant imprint on the [21-cm signal](/research/21cm/), an up-and-coming cosmological probe that will soon teach us a lot about the cosmic dark ages. The 21-cm global signal is extraordinarily sensitive to DM decay, and has the potential to discover DM decaying with lifetimes that are currently one or two orders of magnitude too small to detect [[8](#bib_8)]. DM processes can also have a significant impact on star formation [[9](#bib_9)], which impacts both the 21-cm global signal and power spectrum. 
+
+![Strong constraints on dark matter decay from 21-cm global signal.](/images/21cm_DM.jpg){: width="70%"}
+{: style="text-align: center;"}
+Figure 3. *Limits on dark matter decay from the 21-cm global signal measured by EDGES, under various assumptions. Any future 21-cm global signal measurement near the $\Lambda$CDM expectation will likely improve our sensitivity to dark matter decay lifetime by two orders of magnitude.*
+{: style="font-size: 90%; text-align: left;"}
 
 ## Bibliography
 <a name='bib_1'></a>

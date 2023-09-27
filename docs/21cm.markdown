@@ -4,3 +4,50 @@ title: 21-cm Cosmology
 permalink: /research/21cm/
 usemathjax: true
 ---
+>*The cosmic dark ages is expected to be a cold and quiet epoch in the history of our Universe. New physics processes that disturb the Universe during this period can be detected through 21-cm radio emission from hydrogen gas clouds.*
+{: style="font-size: 200%; color:#C90505; text-align:left; font-family:Times New Roman"}
+
+
+21-cm cosmology involves observing the emission or absorption of 21-cm radiation corresponding to the hyperfine transition of neutral hydrogen. We can measure the sky-averaged absorption or emission of this signal (known as the global signal), or we can obtain a power spectrum of the fluctuations in the emission/absorption. We are still in the early stages of trying to measure these signals experimentally, but a confirmed measurement of either will give us a unique window into the cosmic dark ages ($6 \lesssim z \lesssim 20$, and possibly higher). 
+
+![Standard $\Lambda$CDM expectation of the 21-cm global signal and fluctuations as a function of redshift.](/images/21cm_summary.jpg)
+Figure 1. *Standard $\Lambda$CDM expectation of the 21-cm global signal and fluctuations as a function of redshift. Figure from Ref. [[1](#bib_1)].*
+{: style="font-size: 90%; text-align: left;"}
+
+The EDGES experiment claimed a first measurement of the 21-cm global signal in 2018, generating significant excitement among cosmologists and high-energy physicists. Contrary to standard $\Lambda$CDM expectations, EDGES measured a large absorption trough in the signal at a redshift of $z \sim 17$, suggesting either an unexpected excess in radio photons, or an unexpected cooling of baryons by an unknown source. The former may be produced by [dark photon](/research/dark_photons) oscillations, while the latter can result from new interactions between dark matter and baryons. 
+
+![Large 21-cm absorption trough detected by EDGES.](/images/EDGES.jpg)
+Figure 2. *Large 21-cm absorption trough detected by EDGES. Figure from Ref.[[2](#bib_2)].*
+{: style="font-size: 90%; text-align: left;"}
+
+One experimentally viable and highly testable possibility is that the dark matter comprises a component that carries a small electric charge (also known as millicharged dark matter, and is often associated with a [dark photon](/research/dark_photon)), and a much larger cold component that also couples to the millicharged DM component [[3](#bib_3)]. Heat from baryons is then transferred efficiently to the dark sector and shared by a large heat sink in the form of the CDM component. This model predicts heavy millicharged particles with large charges that will be searched for experimentally in the coming years. It also predicts a distinctive and large 21-cm power spectrum signal, and will easily be discovered by experiments like HERA in the next few years [[4](#bib_4)]. [Numerical computation](/research/computation) for these results was performed using modified versions of [DarkHistory](https://github.com/hongwanliu/DarkHistory) [[5](#bib_5)]. 
+
+![Large 21-cm global signal and fluctuations are expected in a two-component model that can explain the EDGES detection, and will be easily detectable in the next few years.](/images/mDM_CDM_21cm.jpg)
+Figure 3. *Large 21-cm global signal and fluctuations are expected in a two-component model that can explain the EDGES detection, and will be easily detectable in the next few years.*
+{: style="font-size: 90%; text-align: left;"}
+
+Future experiments similar to EDGES will be highly sensitive to [energy injection](/research/energy_injection) processes such as dark matter decay, and will eventually be the leading probe of such processes for sub-GeV dark matter [[6](#bib_6)].
+## Bibliography
+<a name='bib_1'></a>
+[1] Jonathan R. Pritchard and Abraham Loeb, "21-cm Cosmology", Rep. Prog. Phys. 75, 086901 (2012), [arXiv:1109.6012](https://arxiv.org/abs/1109.6012)
+{: style="font-size: 80%;"}
+
+<a name='bib_2'></a>
+[2] Judd D. Bowman, Alan E. E. Rogers, Raul A. Monsalve, Thomas J. Mozdzen and Nivedita Mahesh, "An absorption profile centred at 78 megahertz in the sky-averaged spectrum", Nature 555, 67-70 (2018), [arXiv:1810.05912](https://arxiv.org/abs/1810.05912)
+{: style="font-size: 80%;"}
+
+<a name='bib_3'></a>
+[3] Hongwan Liu, Nadav J. Outmezguine, Diego Redigolo and Tomer Volansky, "Reviving Millicharged Dark Matter for 21-cm Cosmology", PRD 100, 123011 (2019), [arXiv:1908.06986](https://arxiv.org/abs/1908.06986)
+{: style="font-size: 80%;"}
+
+<a name='bib_4'></a>
+[4] Rennan Barkana, Anastasia Fialkov, Hongwan Liu and Nadav J. Outmezguine, "Anticipating a New-Physics Signal in Upcoming 21-cm Power Spectrum Observations, PRD ... [arXiv:2212.08082](http://arxiv.org/abs/2212.08082)
+{: style="font-size: 80%;"}
+
+<a name='bib_1'></a>
+[5] Hongwan Liu, Gregory W. Ridgway and Tracy R. Slatyer, "DarkHistory: A Code Package for Calculating Modified Cosmic Ionization and Thermal Histories with Dark Matter and other Exotic Energy Injections", PRD 101, 023530 (2020), [arXiv:1904.09296](https://arxiv.org/abs/1904.09296)
+{: style="font-size: 80%;"}
+
+<a name='bib_6'></a>
+[6] Hongwan Liu and Tracy Slatyer, "Implications of a 21-cm Signal for Dark Matter Annihilation and Decay", PRD 98, 023501 (2018), [arXiv:1803.09739](https://arxiv.org/abs/1803.09739)
+{: style="font-size: 80%;"}
