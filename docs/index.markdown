@@ -20,4 +20,4 @@ Click on the research tab to learn more.
 
 Prior to joining KICP and Fermilab, I was jointly appointed as a postdoctoral associate at New York University's Center for Cosmology and Particle Physics ([CCPP](https://cosmo.nyu.edu)), and at [Princeton University](https://www.mariangelalisanti.com/) from 2019 -- 2023. I received my PhD in physics from MIT in 2019, and my BA in physics and mathematics from Cornell University before that. 
 
-My CV is available [here](/images/CV_Hongwan_Liu.pdf) (updated Nov 2023). 
+My CV is available [here](/images/CV_Hongwan_Liu.pdf) (updated Jan 2024). 
