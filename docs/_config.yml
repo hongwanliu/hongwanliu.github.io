@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Hongwan Liu
-email: hongwan@uchicago.edu
+email: hongwan@bu.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Research in cosmology, astroparticle physics and high-energy phenomenology. Uncovering new physics beyond our standard models.
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -36,7 +36,8 @@ markdown: kramdown
 
 header_pages:
   - research.markdown
-  # - about.markdown
+  - teaching.markdown
+  - CV.markdown
 
 # Exclude from processing.
 # The following items will not be processed, by default.

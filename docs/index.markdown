@@ -18,5 +18,3 @@ I enjoy thinking about how physics at the smallest scales, where new, microscopi
 Click on the research tab to learn more. 
 
 Prior to joining BU in 2024, I spent a year as a postdoctoral fellow at the Kavli Institute of Cosmological Physics ([KICP](https://kavlicosmo.uchicago.edu/)) at the University of Chicago, and at [Fermilab](https://theory.fnal.gov/), where I was the Schramm fellow for theoretical astrophysics. From 2019 -- 2023, I was jointly appointed as a postdoctoral associate at New York University's Center for Cosmology and Particle Physics ([CCPP](https://cosmo.nyu.edu)), and at [Princeton University](https://www.mariangelalisanti.com/). I received my PhD in physics from MIT in 2019, and my BA in physics and mathematics from Cornell University before that. 
-
-My CV is available [here](/images/CV_Hongwan_Liu.pdf) (updated Jul 2024). 
