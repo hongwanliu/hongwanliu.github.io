@@ -4,6 +4,12 @@ title: 21-cm Cosmology
 permalink: /research/21cm/
 usemathjax: true
 ---
+
+<script type="text/javascript" id="MathJax-script" async
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+</script>
+
+
 >*The cosmic dark ages is expected to be a cold and quiet epoch in the history of our Universe. New physics processes that disturb the Universe during this period can be detected through 21-cm radio emission from hydrogen gas clouds.*
 {: style="font-size: 200%; color:#C90505; text-align:left; font-family:Times New Roman"}
 
