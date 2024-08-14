@@ -4,6 +4,17 @@ title: Dark Photons
 permalink: /research/dark_photons/
 usemathjax: true
 ---
+<script>
+MathJax = {
+  tex: {
+    inlineMath: [['$', '$'], ['\\(', '\\)']]
+  }
+};
+</script>
+<script id="MathJax-script" async
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js">
+</script>
+
 >*The dark photon---a hypothetical, new particle that could mediate a new force in the dark sector---is an extremely useful paradigm for how new physics, including dark matter, could appear at low energies.*
 {: style="font-size: 200%; color:#C90505; text-align:left; font-family:Times New Roman"}
 

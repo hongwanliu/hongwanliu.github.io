@@ -4,6 +4,17 @@ title: Computational Methods
 permalink: /research/computation/
 usemathjax: true
 ---
+<script>
+MathJax = {
+  tex: {
+    inlineMath: [['$', '$'], ['\\(', '\\)']]
+  }
+};
+</script>
+<script id="MathJax-script" async
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js">
+</script>
+
 >*Progress in artificial intelligence has given rise to many new and powerful computational and data analysis techniques. These will become increasingly important in cosmology and high-energy physics research.*
 {: style="font-size: 200%; color:#C90505; text-align:left; font-family:Times New Roman"}
 

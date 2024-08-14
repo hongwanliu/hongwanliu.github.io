@@ -4,6 +4,16 @@ title: Exotic Energy Injection in the Early Universe
 permalink: /research/energy_injection/
 usemathjax: true
 ---
+<script>
+MathJax = {
+  tex: {
+    inlineMath: [['$', '$'], ['\\(', '\\)']]
+  }
+};
+</script>
+<script id="MathJax-script" async
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js">
+</script>
 
 
 >*New physics processes can inject extra ionization, heating or low-energy photons, leaving striking experimental signatures in cosmological datasets.*
