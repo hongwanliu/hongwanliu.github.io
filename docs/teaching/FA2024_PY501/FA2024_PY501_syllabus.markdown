@@ -19,20 +19,20 @@ MathJax = {
 
 The syllabus is tentative and subject to changes and updates at any time. 
 
-|Date   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |Topic | Notes |
+| Date |Topic | Notes |
 |-------|-------|-------|
-|W Sep 4| Introduction to Calculus of Variations | ...|
-|M Sep 9| Noether's Theorem | ... |
-|W Sep 11| Calculus of Variations on Continuous Systems | ... |
-|M Sep 16| Constraints, Endpoint Variation and Second Derivatives| ... |
-|W Sep 18| Vectors, Covectors, Metrics and Linear Maps | ... |
-|M Sep 23| Tensors | ... |
-|W Sep 25| Manifolds, Tangent Bundles and Lie Derivatives | ... |
-|M Sep 30| Lie Derivatives; Review | ... |
+|W&nbsp;Sep&nbsp;4| Introduction to Calculus of Variations | ...|
+|M&nbsp;Sep&nbsp;9| Noether's Theorem | ... |
+|W&nbsp;Sep&nbsp;11| Calculus of Variations on Continuous Systems | ... |
+|M&nbsp;Sep&nbsp;16| Constraints, Endpoint Variation and Second Derivatives| ... |
+|W&nbsp;Sep&nbsp;18| Vectors, Covectors, Metrics and Linear Maps | ... |
+|M&nbsp;Sep&nbsp;23| Tensors | ... |
+|W&nbsp;Sep&nbsp;25| Manifolds, Tangent Bundles and Lie Derivatives | ... |
+|M&nbsp;Sep&nbsp;30| Lie Derivatives; Review | ... |
 |W Oct 2|  **Midterm 1** | ... |
 |M Oct 7|  Differential Forms I | ... |
 |W Oct 9|  Differential Forms II | ... |
-|M Oct 14| -- |Indigeneous People's Day |
+|M&nbsp;Oct&nbsp;14| -- |Indigeneous People's Day |
 |T Oct 15| Integrating Forms | Substitute Monday schedule. |
 |W Oct 16| Stokes Theorem; Dirac Delta Functions, Fourier Analysis I | ... |
 |M Oct 21| Fourier Analysis II | ... |
@@ -44,7 +44,7 @@ The syllabus is tentative and subject to changes and updates at any time.
 |M Nov 11| Complex Analysis IV | ... |
 |W Nov 13| Complex Analysis V | ... |
 |M Nov 18| Statistics I | ... |
-|W Nov 20| Statistics II | ... |
+|W&nbsp;Nov&nbsp;20| Statistics II | ... |
 |M Nov 25| Statistics III | ... |
 |W Nov 27| -- | Thanksgiving Break |
 |M Dec 2| Statistics IV | ... |
