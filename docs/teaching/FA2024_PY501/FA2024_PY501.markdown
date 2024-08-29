@@ -1,0 +1,62 @@
+---
+layout: page
+title: Fall 2024 PY501 - Mathematical Physics
+permalink: /teaching/FA2024_PY501/
+usemathjax: true
+---
+<script>
+MathJax = {
+  tex: {
+    inlineMath: [['$', '$'], ['\\(', '\\)']]
+  }
+};
+</script>
+<script id="MathJax-script" async
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js">
+</script>
+
+PY501 reviews mathematical methods used in physics. The focus is on methods frequently encountered in all areas of physics. The main topics we will discuss are: the calculus of variations; vectors, tensors and calculus on manifolds; Fourier analysis; complex analysis, and statistics. 
+
+**Instructor**: Prof. Hongwan Liu (hongwan@bu.edu) 
+
+**Lectures**: Mondays and Wednesdays 10:10 am -- 11:55 am, SCI B58
+
+**Office Hours**: Fridays 10 am, PRB 573
+
+**Syllabus**: Available [here](/teaching/FA2024_PY501_syllabus), and will be updated throughout the course. 
+
+**Lecture Notes**: Continually updated as one single document, available [here](/images/PY501_FA2024.pdf). 
+
+**Homework**: Problem sets are posted on [GradeScope](https://www.gradescope.com), and solutions should be submitted there as well. Solutions will be posted [here](/teaching/FA2024_PY501_psets). You can check the due dates on either GradeScope or on the solutions page. Late homework will be penalized at 20% of the total points per day, and will not be accepted more than two days late. 
+
+**Exams**: There will be two in-class midterms and a final. The tentative exam schedule is as follows: 
+- Midterm 1: Wednesday October 2
+- Midterm 2: Wednesday October 30
+- Final: TBA
+
+**Grading**: Problem Sets 30%, Midterm 1 20%, Midterm 2 20%, Final 30%. Grades will be curved. 
+
+**Online Discussion**: All announcements, questions and discussions (about both logistics and physics) should be posted on the [Piazza page](https://piazza.com/bu/fall2024/py501/info) for this course. 
+
+**Students' Responsibility**: Students should know and understand the provisions of the [CAS Academic Conduct Code](https://www.bu.edu/academics/cas/policies/academic-conduct/) and the [BU Code of Student Responsibilities](https://www.bu.edu/dos/policies/student-responsibilities/).
+
+**Materials**: There are many good reference textbooks, many of which are available to you both electronically and in hardcopy through the BU library system. Other good reference materials are easily available on the internet. The lectures will be drawn from various sources, but you may find the following books and notes helpful (links are to online copies where available): 
+
+- General References
+  - [*Mathematical Methods for Physicists: A Comprehensive Guide*](https://bu.primo.exlibrisgroup.com/permalink/01BOSU_INST/u1o13f/alma99208716563001161) by Arfken, Weber and Harris
+  - *Mathematics for Physics: A Guided Tour for Graduate Students* by Stone and Goldbart
+  - *Mathematics for Physicists: Introductory Concepts and Methods* by Altland and von Delft
+  - *Mathematics of Classical and Quantum Physics* by Byron and Fuller 
+  - *Basic Training in Mathematics: A Fitness Program for Science Students* by Shankar
+- Complex Analysis
+  - *Introductory Complex Analysis* by Silverman
+  - *An Introduction to Fourier Analysis and Generalized Functions* by Lighthill
+- Statistics
+  - *Statistical Data Analysis* by Cowan (see also his [statistics course website](https://www.pp.rhul.ac.uk/~cowan/stat_course.html))
+  - [*Statistics IB notes*](https://www.statslab.cam.ac.uk/~rrw1/stats/) by Weber
+
+**Miscellaneous**
+1. The use of [Mathematica](https://www.bu.edu/tech/services/cccs/desktop/distribution/mathsci/mathematica/) is encouraged, but keep in mind that you are expected to be familiar enough with the mechanics of performing calculations to do so during the in-class midterms and exams. 
+2. Working in groups on problem sets is also highly encouraged, but please indicate at the top of your solutions who you worked with. If you would like to work with someone but are having trouble finding people to work with, let me know. 
+3. You should feel comfortable asking me for reasonable and stochastically occurring accommodations. Please plan ahead and ask for them early. Students who require accommodations throughout the course should approach [BU Disability & Access Services](https://www.bu.edu/disability/accommodations/). 
+4. Every effort should be made to maintain an open and respectful environment in class, where everyone feels comfortable expressing their opinions and asking questions. 

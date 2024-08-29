@@ -8,7 +8,7 @@ layout: home
 ![Me in Ithaca. Ithaca is Gorges.](/images/washington_sq_park.jpg){: style="float: left; margin-right: 1em;"}
 <!-- ![Me in Ithaca. Ithaca is Gorges.](/images/ithaca.jpg){:style="width: 600px; display: block; margin-left:auto; margin-right:auto"} -->
 
-Hi! I'm an assistant professor of physics at [Boston University](https://www.bu.edu/physics/). 
+Hi! I'm an assistant professor of physics at [Boston University](https://www.bu.edu/physics/), and a member of the [BU Cosmology Group](https://sites.bu.edu/cosmology/). 
 
 >*My research lies at the intersection of cosmology, astroparticle physics and high-energy physics. I work to uncover what lies beyond our currently incomplete understanding of physics.*
 {: style="font-size: 200%; color:#C90505; text-align:left; font-family:Times New Roman"}

@@ -24,7 +24,6 @@ description: >- # this means to ignore newlines until "baseurl:"
   Research in cosmology, astroparticle physics and high-energy phenomenology. Uncovering new physics beyond our standard models.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: hongwan_liu
 github_username:  hongwanliu
 
 # Build settings
