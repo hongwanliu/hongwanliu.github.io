@@ -19,7 +19,7 @@ MathJax = {
 
 The syllabus is tentative and subject to changes and updates at any time. 
 
-| <div style="width:80px"> Date </div> | <div style="width:420px"> Topic </div> | Notes |
+|Date   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |Topic | Notes |
 |-------|-------|-------|
 |W Sep 4| Introduction to Calculus of Variations | ...|
 |M Sep 9| Noether's Theorem | ... |
