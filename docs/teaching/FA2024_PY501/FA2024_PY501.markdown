@@ -49,6 +49,7 @@ PY501 reviews mathematical methods used in physics. The focus is on methods freq
   - *Mathematics of Classical and Quantum Physics* by Byron and Fuller 
   - *Basic Training in Mathematics: A Fitness Program for Science Students* by Shankar
 - Complex Analysis
+  - [*Complex Variables and Applications*](https://archive.org/details/brown-churchill-complex-variables-and-application-8th-edition-1/) by Brown and Churchill
   - *Introductory Complex Analysis* by Silverman
   - *An Introduction to Fourier Analysis and Generalized Functions* by Lighthill
 - Statistics
