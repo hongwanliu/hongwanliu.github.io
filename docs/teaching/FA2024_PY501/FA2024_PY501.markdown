@@ -44,7 +44,7 @@ PY501 reviews mathematical methods used in physics. The focus is on methods freq
 
 - General References
   - [*Mathematical Methods for Physicists: A Comprehensive Guide*](https://bu.primo.exlibrisgroup.com/permalink/01BOSU_INST/u1o13f/alma99208716563001161) by Arfken, Weber and Harris
-  - *Mathematics for Physics: A Guided Tour for Graduate Students* by Stone and Goldbart
+  - [*Mathematics for Physics: A Guided Tour for Graduate Students*](https://courses.physics.illinois.edu/phys508/fa2024/bookmaster.pdf) by Stone and Goldbart (link is to Stone's online version of the textbook, which may have typos!)
   - *Mathematics for Physicists: Introductory Concepts and Methods* by Altland and von Delft
   - *Mathematics of Classical and Quantum Physics* by Byron and Fuller 
   - *Basic Training in Mathematics: A Fitness Program for Science Students* by Shankar
