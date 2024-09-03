@@ -17,7 +17,7 @@ MathJax = {
 
 PY501 reviews mathematical methods used in physics. The focus is on methods frequently encountered in all areas of physics. The main topics we will discuss are: the calculus of variations; vectors, tensors and calculus on manifolds; Fourier analysis; complex analysis, and statistics. 
 
-**Instructor**: Prof. Hongwan Liu (hongwan@bu.edu) 
+**Instructor**: Prof. Hongwan Liu ([hongwan@bu.edu](mailto:hongwan@bu.edu))
 
 **Lectures**: Mondays and Wednesdays 10:10 am -- 11:55 am, SCI B58
 
@@ -30,9 +30,9 @@ PY501 reviews mathematical methods used in physics. The focus is on methods freq
 **Homework**: Problem sets are posted on [GradeScope](https://www.gradescope.com), and solutions should be submitted there as well. Solutions will be posted [here](/teaching/FA2024_PY501_psets). You can check the due dates on either GradeScope or on the solutions page. Late homework will be penalized at 20% of the total points per day, and will not be accepted more than two days late. 
 
 **Exams**: There will be two in-class midterms and a final. The tentative exam schedule is as follows: 
-- Midterm 1: Wednesday October 2
-- Midterm 2: Wednesday October 30
-- Final: TBA
+- Midterm 1: Wednesday, October 2
+- Midterm 2: Wednesday, October 30
+- Final: Monday, December 16, 9 am -- 11 am
 
 **Grading**: Problem Sets 30%, Midterm 1 20%, Midterm 2 20%, Final 30%. Grades will be curved. 
 
