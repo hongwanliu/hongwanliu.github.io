@@ -19,12 +19,14 @@ MathJax = {
 
 The syllabus is tentative and subject to changes and updates at any time. 
 
+Acronyms for references are as follows: SG - *Stone & Goldbart*; BF - *Byron & Fuller*; Sh - *Shankar*; AWH - *Arfken, Weber & Harris*; AvD - *Altland & von Delft*. Numbers refer to relevant chapters. 
+
 | Date |Topic | Notes |
 |-------|-------|-------|
-|W&nbsp;Sep&nbsp;4| Introduction to Calculus of Variations | ...|
-|M&nbsp;Sep&nbsp;9| Noether's Theorem | ... |
-|W&nbsp;Sep&nbsp;11| Calculus of Variations on Continuous Systems | ... |
-|M&nbsp;Sep&nbsp;16| Constraints, Endpoint Variation and Second Derivatives| ... |
+|W&nbsp;Sep&nbsp;4| Introduction to Calculus of Variations |SG1, BF2, AWH22|
+|M&nbsp;Sep&nbsp;9| Noether's Theorem | SG1, BF2, AWH22 |
+|W&nbsp;Sep&nbsp;11| Calculus of Variations on Continuous Systems | SG1, BF2, AWH22 |
+|M&nbsp;Sep&nbsp;16| Constraints, Endpoint Variation and Second Derivatives| SG1, BF2, AWH22 |
 |W&nbsp;Sep&nbsp;18| Vectors, Covectors, Metrics and Linear Maps | ... |
 |M&nbsp;Sep&nbsp;23| Tensors | ... |
 |W&nbsp;Sep&nbsp;25| Manifolds, Tangent Bundles and Lie Derivatives | ... |
