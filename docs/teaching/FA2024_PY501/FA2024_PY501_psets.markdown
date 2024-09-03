@@ -21,5 +21,17 @@ Problem sets are posted on [GradeScope](http://www.gradescope.com). Due dates an
 
 |Due Date| Problem Set | Solutions|
 |-------|-------|------------|
-M Sep 9 | PS1: Calculus of Variations | (not posted yet) |
+M Sep 9 | PS1: Calculus of Variations I | (not posted yet) |
+M Sep 16 | PS2: Calculus of Variations II | (not posted yet) |
+M Sep 23 | PS3: Calculus of Variations III | (not posted yet) |
+M Sep 30 | PS4: | (not posted yet) |
+T Oct 15 | PS5: | (not posted yet) |
+M Oct 21 | PS6: | (not posted yet) |
+M Oct 28 | PS7: | (not posted yet) |
+M Nov 11 | PS8: | (not posted yet) |
+M Nov 18 | PS9: | (not posted yet) |
+M Nov 25 | PS10: | (not posted yet) |
+M Dec 9  | PS11: | (not posted yet) |
+
+
 
