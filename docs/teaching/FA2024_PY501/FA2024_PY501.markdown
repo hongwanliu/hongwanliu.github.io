@@ -21,7 +21,7 @@ PY501 reviews mathematical methods used in physics. The focus is on methods freq
 
 **Lectures**: Mondays and Wednesdays 10:10 am -- 11:55 am, SCI B58
 
-**Office Hours**: Fridays 10 am, PRB 573
+**Office Hours**: Fridays 4 pm, PRB 573
 
 **Syllabus**: Available [here](/teaching/FA2024_PY501_syllabus), and will be updated throughout the course. 
 
