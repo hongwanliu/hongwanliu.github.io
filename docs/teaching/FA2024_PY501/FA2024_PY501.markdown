@@ -25,7 +25,7 @@ PY501 reviews mathematical methods used in physics. The focus is on methods freq
 
 **Syllabus**: Available [here](/teaching/FA2024_PY501_syllabus), and will be updated throughout the course. 
 
-**Lecture Notes**: Continually updated as one single document, available [here](/images/PY501_FA2024.pdf). 
+**Lecture Notes**: Continually updated as one single document, available [here](/images/FA2024_PY501_notes.pdf). 
 
 **Homework**: Problem sets are posted on [GradeScope](https://www.gradescope.com), and solutions should be submitted there as well. Solutions will be posted [here](/teaching/FA2024_PY501_psets). You can check the due dates on either GradeScope or on the solutions page. Late homework will be penalized at 20% of the total points per day, and will not be accepted more than two days late. 
 
