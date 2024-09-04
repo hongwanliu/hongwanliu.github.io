@@ -57,7 +57,12 @@ PY501 reviews mathematical methods used in physics. The focus is on methods freq
   - [*Statistics IB notes*](https://www.statslab.cam.ac.uk/~rrw1/stats/) by Weber
 
 **Miscellaneous**
-1. The use of [Mathematica](https://www.bu.edu/tech/services/cccs/desktop/distribution/mathsci/mathematica/) is encouraged, but keep in mind that you are expected to be familiar enough with the mechanics of performing calculations to do so during the in-class midterms and exams. 
-2. Working in groups on problem sets is also highly encouraged, but please indicate at the top of your solutions who you worked with. If you would like to work with someone but are having trouble finding people to work with, let me know. 
-3. You should feel comfortable asking me for reasonable and stochastically occurring accommodations. Please plan ahead and ask for them early. Students who require accommodations throughout the course should approach [BU Disability & Access Services](https://www.bu.edu/disability/accommodations/). 
-4. Every effort should be made to maintain an open and respectful environment in class, where everyone feels comfortable expressing their opinions and asking questions. 
+1. Abiding by the [BU Academic Conduct Code](https://www.bu.edu/academics/policies/academic-conduct-code/) is expected.
+
+2. The use of [Mathematica](https://www.bu.edu/tech/services/cccs/desktop/distribution/mathsci/mathematica/) is encouraged, but keep in mind that you are expected to be familiar enough with the mechanics of performing calculations to do so during the in-class midterms and exams.
+
+3. Working in groups on problem sets is also highly encouraged, but please indicate at the top of your solutions who you worked with, and always write up the solution yourself. If you would like to work with someone but are having trouble finding people to work with, let me know. 
+
+4. You should feel comfortable asking me for reasonable and stochastically occurring accommodations. Please plan ahead and ask for them early. Students who require accommodations throughout the course should approach [BU Disability & Access Services](https://www.bu.edu/disability/accommodations/). 
+
+5. Every effort should be made to maintain an open and respectful environment in class, where everyone feels comfortable expressing their opinions and asking questions. 

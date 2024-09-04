@@ -17,7 +17,7 @@ MathJax = {
 
 # Problem Set Solutions
 
-Problem sets are posted on [GradeScope](http://www.gradescope.com). Due dates and solutions are listed below. You can submit your problem sets any time before the clock strikes midnight in Boston on the due date :)  
+Problem sets are posted on [GradeScope](http://www.gradescope.com). Due dates and solutions are listed below. You can submit your problem sets any time before the clock strikes midnight in Boston on the due date :). 
 
 |Due Date| Problem Set | Solutions|
 |-------|-------|------------|
