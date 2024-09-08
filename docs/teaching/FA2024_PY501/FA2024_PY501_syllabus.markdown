@@ -24,9 +24,9 @@ Acronyms for references are as follows: SG - *Stone & Goldbart*; BF - *Byron & F
 | Date |Topic | Notes |
 |-------|-------|-------|
 |W&nbsp;Sep&nbsp;4| Introduction to Calculus of Variations |SG1, BF2, AWH22|
-|M&nbsp;Sep&nbsp;9| Noether's Theorem | SG1, BF2, AWH22 |
+|M&nbsp;Sep&nbsp;9| Endpoint Variation, Noether's Theorem | SG1, BF2, AWH22 |
 |W&nbsp;Sep&nbsp;11| Calculus of Variations on Continuous Systems | SG1, BF2, AWH22 |
-|M&nbsp;Sep&nbsp;16| Constraints, Endpoint Variation and Second Derivatives| SG1, BF2, AWH22 |
+|M&nbsp;Sep&nbsp;16| More Continuous Systems, Constraints | SG1, BF2, AWH22 |
 |W&nbsp;Sep&nbsp;18| Vectors, Covectors, Metrics and Linear Maps | ... |
 |M&nbsp;Sep&nbsp;23| Tensors | ... |
 |W&nbsp;Sep&nbsp;25| Manifolds, Tangent Bundles and Lie Derivatives | ... |
