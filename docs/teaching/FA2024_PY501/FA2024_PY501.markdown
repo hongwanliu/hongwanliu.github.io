@@ -19,7 +19,7 @@ PY501 reviews mathematical methods used in physics. The focus is on methods freq
 
 **Lectures**: Mondays and Wednesdays 10:10 am -- 11:55 am, SCI B58
 
-**Faculty Instructor**: Prof. Hongwan Liu ([hongwan@bu.edu](mailto:hongwan@bu.edu))
+**Faculty Instructor**: Hongwan Liu ([hongwan@bu.edu](mailto:hongwan@bu.edu))
 **Hongwan's Office Hours**: Fridays 4 pm, PRB 573
 
 **Graduate Teaching Fellow**: Eashwar Sivarajan ([eashwar@bu.edu](mailto:eashwar@bu.edu))
