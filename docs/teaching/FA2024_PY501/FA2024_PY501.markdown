@@ -21,7 +21,11 @@ PY501 reviews mathematical methods used in physics. The focus is on methods freq
 
 **Lectures**: Mondays and Wednesdays 10:10 am -- 11:55 am, SCI B58
 
-**Office Hours**: Fridays 4 pm, PRB 573
+**Hongwan's Office Hours**: Fridays 4 pm, PRB 573
+
+**Graduate Teaching Fellow**: Eashwar Sivarajan ([eashwar@bu.edu](mailto:eashwar@bu.edu))
+
+**Eashwar's Office Hours**: Thursdays 3 pm, PRB 553
 
 **Syllabus**: Available [here](/teaching/FA2024_PY501_syllabus), and will be updated throughout the course. 
 
