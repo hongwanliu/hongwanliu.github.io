@@ -27,9 +27,9 @@ Acronyms for references are as follows: SG - *Stone & Goldbart*; BF - *Byron & F
 |M&nbsp;Sep&nbsp;9| Endpoint Variation, Noether's Theorem | SG1, BF2, AWH22 |
 |W&nbsp;Sep&nbsp;11| More Noether's Theorem, Continuous Systems | SG1, BF2, AWH22 |
 |M&nbsp;Sep&nbsp;16| More Continuous Systems, Constraints | SG1, BF2, AWH22 |
-|W&nbsp;Sep&nbsp;18| More Constraints. Vectors, Covectors, Metrics and Tensors | ... |
-|M&nbsp;Sep&nbsp;23| More Tensors | ... |
-|W&nbsp;Sep&nbsp;25| Manifolds, Tangent Bundles and Lie Derivatives | ... |
+|W&nbsp;Sep&nbsp;18| More Constraints. Vectors, Covectors, Metrics and Tensors | SG10, AvD L10 and V|
+|M&nbsp;Sep&nbsp;23| More Tensors | SG10, AvD L10 and V|
+|W&nbsp;Sep&nbsp;25| Manifolds, Tangent Bundles and Lie Derivatives | SG11, AvD L10 and V|
 |M&nbsp;Sep&nbsp;30| Lie Derivatives; Review | ... |
 |W Oct 2|  **Midterm 1** | ... |
 |M Oct 7|  Differential Forms I | ... |
