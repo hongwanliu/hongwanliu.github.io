@@ -27,15 +27,15 @@ Acronyms for references are as follows: SG - *Stone & Goldbart*; BF - *Byron & F
 |M&nbsp;Sep&nbsp;9| Endpoint Variation, Noether's Theorem | SG1, BF2, AWH22 |
 |W&nbsp;Sep&nbsp;11| More Noether's Theorem, Continuous Systems | SG1, BF2, AWH22 |
 |M&nbsp;Sep&nbsp;16| More Continuous Systems, Constraints | SG1, BF2, AWH22 |
-|W&nbsp;Sep&nbsp;18| More Constraints. Vectors, Covectors, Metrics and Tensors | SG10, AvD L10 and V|
-|M&nbsp;Sep&nbsp;23| More Tensors | SG10, AvD L10 and V|
-|W&nbsp;Sep&nbsp;25| Manifolds, Tangent Bundles and Lie Derivatives | SG11, AvD L10 and V|
-|M&nbsp;Sep&nbsp;30| Lie Derivatives; Review | ... |
+|W&nbsp;Sep&nbsp;18| More Constraints. Vectors, Covectors | SG10, AvD L10 and V|
+|M&nbsp;Sep&nbsp;23| Metrics and Tensors | SG10, AvD L10 and V|
+|W&nbsp;Sep&nbsp;25| More Tensors | SG10, AvD L10 and V|
+|M&nbsp;Sep&nbsp;30| Manifolds, Tangent Bundles and Lie Derivatives; Review | SG11, AvD L10 and V |
 |W Oct 2|  **Midterm 1** | ... |
-|M Oct 7|  Differential Forms I | ... |
-|W Oct 9|  Differential Forms II | ... |
+|M Oct 7|  Differential Forms I |  SG11, AvD L10 and V |
+|W Oct 9|  Differential Forms II |  SG11, AvD L10 and V |
 |M&nbsp;Oct&nbsp;14| -- |Indigeneous People's Day |
-|T Oct 15| Integrating Forms | Substitute Monday schedule. |
+|T Oct 15| Integrating Forms | Substitute Monday schedule.  SG11, AvD L10 and V |
 |W Oct 16| Stokes Theorem; Complex Analysis I | ... |
 |M Oct 21| Complex Analysis II | ... |
 |W Oct 23| Complex Analysis III | ... |
