@@ -19,7 +19,7 @@ MathJax = {
 
 The syllabus is tentative and subject to changes and updates at any time. 
 
-Acronyms for references are as follows: SG - *Stone & Goldbart*; BF - *Byron & Fuller*; Sh - *Shankar*; AWH - *Arfken, Weber & Harris*; AvD - *Altland & von Delft*. Numbers refer to relevant chapters. 
+Acronyms for references are as follows: SG - *Stone & Goldbart*; BF - *Byron & Fuller*; Sh - *Shankar*; AWH - *Arfken, Weber & Harris*; AvD - *Altland & von Delft*; C - *Carroll*. Numbers refer to relevant chapters. 
 
 | Date |Topic | Notes |
 |-------|-------|-------|
@@ -30,12 +30,12 @@ Acronyms for references are as follows: SG - *Stone & Goldbart*; BF - *Byron & F
 |W&nbsp;Sep&nbsp;18| More Constraints. Vectors, Covectors | SG10, AvD L10 and V|
 |M&nbsp;Sep&nbsp;23| Metrics and Tensors | SG10, AvD L10 and V|
 |W&nbsp;Sep&nbsp;25| More Tensors | SG10, AvD L10 and V|
-|M&nbsp;Sep&nbsp;30| Manifolds, Tangent Bundles and Lie Derivatives; Review | SG11, AvD L10 and V |
+|M&nbsp;Sep&nbsp;30| Manifolds, Tangent Bundles and Lie Derivatives; Review | SG11, AvD L10 and V, C2|
 |W Oct 2|  **Midterm 1** | ... |
-|M Oct 7|  Differential Forms I |  SG11, AvD L10 and V |
-|W Oct 9|  Differential Forms II |  SG11, AvD L10 and V |
+|M Oct 7|  Differential Forms I |  SG11, AvD L10 and V, C2 |
+|W Oct 9|  Differential Forms II |  SG11, AvD L10 and V, C2 |
 |M&nbsp;Oct&nbsp;14| -- |Indigeneous People's Day |
-|T Oct 15| Integrating Forms | Substitute Monday schedule.  SG11, AvD L10 and V |
+|T Oct 15| Integrating Forms | Substitute Monday schedule.  SG11, AvD L10 and V C2 |
 |W Oct 16| Stokes Theorem; Complex Analysis I | ... |
 |M Oct 21| Complex Analysis II | ... |
 |W Oct 23| Complex Analysis III | ... |

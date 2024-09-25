@@ -52,6 +52,8 @@ PY501 reviews mathematical methods used in physics. The focus is on methods freq
   - *Mathematics for Physicists: Introductory Concepts and Methods* by Altland and von Delft
   - *Mathematics of Classical and Quantum Physics* by Byron and Fuller 
   - *Basic Training in Mathematics: A Fitness Program for Science Students* by Shankar
+- Calculus on Manifolds
+  - *Spacetime and Geometry: An Introduction to General Relativity* by Carroll, based on his [*Lecture Notes on General Relativity*](https://arxiv.org/abs/gr-qc/9712019) 
 - Complex Analysis
   - [*Complex Variables and Applications*](https://archive.org/details/brown-churchill-complex-variables-and-application-8th-edition-1/) by Brown and Churchill
   - *Introductory Complex Analysis* by Silverman
