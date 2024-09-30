@@ -31,7 +31,6 @@ M Oct 28 | PS7: (TBA)  | (not posted yet) |
 M Nov 11 | PS8: (TBA)  | (not posted yet) |
 M Nov 18 | PS9: (TBA)  | (not posted yet) |
 M Nov 25 | PS10: (TBA) | (not posted yet) |
-M Dec 9  | PS11: (TBA) | (not posted yet) |
 
 
 

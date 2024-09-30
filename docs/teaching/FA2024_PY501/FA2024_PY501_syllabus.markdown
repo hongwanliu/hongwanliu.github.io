@@ -50,5 +50,5 @@ Acronyms for references are as follows: SG - *Stone & Goldbart*; BF - *Byron & F
 |M Nov 25| Statistics III | ... |
 |W Nov 27| -- | Thanksgiving Break |
 |M Dec 2| Statistics IV | ... |
-|W Dec 4| Statistics V | ... |
-|M Dec 9| Review | ... |
+|W Dec 4| Statistics V; Review | ... |
+|M Dec 9| **Final** | ... |
