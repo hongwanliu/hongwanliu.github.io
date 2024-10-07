@@ -24,7 +24,7 @@ Problem sets are posted on [GradeScope](http://www.gradescope.com). Due dates an
 M Sep 9 | PS1: Calculus of Variations I | [PS1 Solutions](http://physics.bu.edu/~hongwan/PY501_Fall2024/PS1.pdf) |
 M Sep 16 | PS2: Calculus of Variations II | [PS2 Solutions](http://physics.bu.edu/~hongwan/PY501_Fall2024/PS2.pdf) |
 M Sep 23 | PS3: Calculus of Variations III | [PS3 Solutions](http://physics.bu.edu/~hongwan/PY501_Fall2024/PS3.pdf) |
-M Sep 30 | PS4: Tensors  | (not posted yet) |
+M Sep 30 | PS4: Tensors  | [PS4 Solutions](http://physics.bu.edu/~hongwan/PY501_Fall2024/PS4.pdf) |
 T Oct 15 | PS5: (TBA)  | (not posted yet) |
 M Oct 21 | PS6: (TBA)  | (not posted yet) |
 M Oct 28 | PS7: (TBA)  | (not posted yet) |
