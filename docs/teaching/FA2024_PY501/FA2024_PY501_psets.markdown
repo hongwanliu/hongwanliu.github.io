@@ -25,9 +25,9 @@ M Sep 9 | PS1: Calculus of Variations I | [PS1 Solutions](http://physics.bu.edu/
 M Sep 16 | PS2: Calculus of Variations II | [PS2 Solutions](http://physics.bu.edu/~hongwan/PY501_Fall2024/PS2.pdf) |
 M Sep 23 | PS3: Calculus of Variations III | [PS3 Solutions](http://physics.bu.edu/~hongwan/PY501_Fall2024/PS3.pdf) |
 M Sep 30 | PS4: Tensors  | [PS4 Solutions](http://physics.bu.edu/~hongwan/PY501_Fall2024/PS4.pdf) |
-T Oct 15 | PS5: (TBA)  | (not posted yet) |
-M Oct 21 | PS6: (TBA)  | (not posted yet) |
-M Oct 28 | PS7: (TBA)  | (not posted yet) |
+T Oct 15 | PS5: Calculus on Manifolds I | [PS5 Solutions](http://physics.bu.edu/~hongwan/PY501_Fall2024/PS5.pdf) |
+M Oct 21 | PS6: Calculus on Manifolds II | (not posted yet) |
+M Oct 28 | PS7: Complex Analysis I | (not posted yet) |
 M Nov 11 | PS8: (TBA)  | (not posted yet) |
 M Nov 18 | PS9: (TBA)  | (not posted yet) |
 M Nov 25 | PS10: (TBA) | (not posted yet) |
