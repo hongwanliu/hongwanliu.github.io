@@ -38,13 +38,13 @@ Acronyms for references are as follows: SG - *Stone & Goldbart*; BF - *Byron & F
 |T Oct 15| Integrating Forms | Substitute Monday schedule.  SG11, AvD L10 and V, C2 |
 |W Oct 16| Volume Forms and Stokes' Theorem; Complex Numbers Refresher | SG11, AvD L10 andV, C2;  CB1--11|
 |M Oct 21| Complex Functions & Derivatives; Cauchy-Riemann Equations |CB12--36|
-|W Oct 23| Complex Integration I (Introduction, Cauchy-Goursat Theorem); Taylor Series |CB37--54, CB55--67|
-|M Oct 28| Complex Integration II (Residues & Poles); Review |CB68--77|
+|W Oct 23| Contour Integration, Modulus Inequality, Antiderivatives |CB37--44|
+|M Oct 28| Review | ... |
 |W Oct 30| **Midterm 2** | ... |
-|M Nov 4| Complex Integration III (Doing Integrals) |CB78--85|
-|W Nov 6| Complex Integration IV (Doing Integrals); Dirac Delta Functions, Fourier Analysis I | CB78--85;  |
-|M Nov 11| Fourier Analysis II | ... |
-|W Nov 13| Fourier Analysis III | ... |
+|M Nov 4| Cauchy-Goursat Theorem; Series Representations |CB46--67|
+|W Nov 6| Residues & Poles; Residue Theorem & Applications | CB68--85|
+|M Nov 11| Fourier Analysis I | ... |
+|W Nov 13| Fourier Analysis II | ... |
 |M Nov 18| Statistics I | ... |
 |W&nbsp;Nov&nbsp;20| Statistics II | ... |
 |M Nov 25| Statistics III | ... |
