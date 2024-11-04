@@ -36,7 +36,7 @@ PY501 reviews mathematical methods used in physics. The focus is on methods freq
 **Exams**: There will be two in-class midterms and a final. The tentative exam schedule is as follows: 
 - Midterm 1: Wednesday, October 2
 - Midterm 2: Wednesday, October 30
-- Final: Monday, December 16, 9 am -- 11 am
+- Final: Monday, December 9
 
 **Grading**: Problem Sets 35%, Midterm 1 20%, Midterm 2 20%, Final 20%, Class Participation 5%. Grades will be curved. 
 
