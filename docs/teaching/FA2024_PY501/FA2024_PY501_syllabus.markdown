@@ -42,9 +42,9 @@ Acronyms for references are as follows: SG - *Stone & Goldbart*; BF - *Byron & F
 |M Oct 28| Review | ... |
 |W Oct 30| **Midterm 2** | ... |
 |M Nov 4| Cauchy-Goursat Theorem; Series Representations |CB46--67|
-|W Nov 6| Residues & Poles; Residue Theorem & Applications | CB68--85|
-|M Nov 11| Fourier Analysis I | ... |
-|W Nov 13| Fourier Analysis II | ... |
+|W Nov 6| Residues & Poles; Residue Theorem & Applications | CB68--81|
+|M Nov 11| Complex Integration with Branch Cuts; Dirac Delta Function, Fourier Series | AvD C6 |
+|W Nov 13| Fourier Transform | CB82--84; AvD C6 |
 |M Nov 18| Statistics I | ... |
 |W&nbsp;Nov&nbsp;20| Statistics II | ... |
 |M Nov 25| Statistics III | ... |
