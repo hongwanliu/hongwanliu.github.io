@@ -19,7 +19,7 @@ MathJax = {
 
 The syllabus is tentative and subject to changes and updates at any time. 
 
-Acronyms for references are as follows: SG - *Stone & Goldbart*; BF - *Byron & Fuller*; Sh - *Shankar*; AWH - *Arfken, Weber & Harris*; AvD - *Altland & von Delft*; C - *Carroll*; CB - *Churchill & Brown*. Numbers refer to relevant chapters. 
+Acronyms for references are as follows: SG - *Stone & Goldbart*; BF - *Byron & Fuller*; Sh - *Shankar*; AWH - *Arfken, Weber & Harris*; AvD - *Altland & von Delft*; C - *Carroll*; CB - *Churchill & Brown*; Co - *Cowan*. Numbers refer to relevant chapters. 
 
 | Date |Topic | Notes |
 |-------|-------|-------|
@@ -45,10 +45,10 @@ Acronyms for references are as follows: SG - *Stone & Goldbart*; BF - *Byron & F
 |W Nov 6| Residues & Poles; Residue Theorem & Applications | CB68--81|
 |M Nov 11| Complex Integration with Branch Cuts; Dirac Delta Function, Fourier Series | AvD C6 |
 |W Nov 13| Fourier Transform | CB82--84; AvD C6 |
-|M Nov 18| Statistics I | ... |
-|W&nbsp;Nov&nbsp;20| Statistics II | ... |
-|M Nov 25| Statistics III | ... |
+|M Nov 18| Convolution Theorem; Probability Density Functions | AvD C6; Co1-2 |
+|W&nbsp;Nov&nbsp;20| Probability Density Functions; Statistical Tests | Co3-4 |
+|M Nov 25| Parameter Estimation | Co5,6,9|
 |W Nov 27| -- | Thanksgiving Break |
-|M Dec 2| Statistics IV | ... |
-|W Dec 4| Statistics V; Review | ... |
+|M Dec 2| Parameter Estimation; Bayesian Statistics | Co5,6,9 |
+|W Dec 4| Review | ... |
 |M Dec 9| **Final** | ... |
