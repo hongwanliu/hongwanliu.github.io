@@ -29,8 +29,9 @@ W Oct 2  | Midterm 1 | [Midterm 1 Solutions](https://physics.bu.edu/~hongwan/PY5
 T Oct 15 | PS5: Calculus on Manifolds I | [PS5 Solutions](http://physics.bu.edu/~hongwan/PY501_Fall2024/PS5.pdf) |
 M Oct 21 | PS6: Calculus on Manifolds II | [PS6 Solutions](http://physics.bu.edu/~hongwan/PY501_Fall2024/PS6.pdf) |
 M Oct 28 | PS7: Complex Analysis I | [PS7 Solutions](http://physics.bu.edu/~hongwan/PY501_Fall2024/PS7.pdf) |
+W Oct 30 | Midterm 2| [Midterm 2 Solutions](https://physics.bu.edu/~hongwan/PY501_Fall2024/Midterm2.pdf)
 M Nov 11 | PS8: Complex Analysis II  | [PS8 Solutions](http://physics.bu.edu/~hongwan/PY501_Fall2024/PS8.pdf) |
-M Nov 18 | PS9: Fourier Analysis  | (not posted yet) |
+M Nov 18 | PS9: Fourier Analysis  | [PS9 Solutions](http://physics.bu.edu/~hongwan/PY501_Fall2024/PS9.pdf) |
 M Nov 25 | PS10: Statistics | (not posted yet) |
 
 
