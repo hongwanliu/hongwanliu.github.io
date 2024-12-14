@@ -33,6 +33,7 @@ W Oct 30 | Midterm 2| [Midterm 2 Solutions](https://physics.bu.edu/~hongwan/PY50
 M Nov 11 | PS8: Complex Analysis II  | [PS8 Solutions](http://physics.bu.edu/~hongwan/PY501_Fall2024/PS8.pdf) |
 M Nov 18 | PS9: Fourier Analysis  | [PS9 Solutions](http://physics.bu.edu/~hongwan/PY501_Fall2024/PS9.pdf) |
 M Nov 25 | PS10: Statistics | [PS10 Solutions](http://physics.bu.edu/~hongwan/PY501_Fall2024/PS10.pdf) |
+M Dec 9 | Final | [Final Solutions](http://physics.bu.edu/~hongwan/PY501_Fall2024/Final.pdf) |
 
 
 
