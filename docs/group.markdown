@@ -17,7 +17,7 @@ Nick is a theoretical physicist specialized in the field of cosmology. He is cur
 ## Graduate Students
 
 <img align="left" width="200" src="/images/group/Ethan_Baker.jpg" hspace="20" vspace="50"/>
-###Ethan Baker
+### Ethan Baker
 
 Ethan is a physics PhD student at Boston University. Before coming to BU, he graduated with a B.S. in Physics and Mathematics from Haverford College in 2024, which is where his enthusiasm for particle physics and cosmology first began. He is currently working on understanding the potential impacts of dark photons on the 21-cm power spectrum. Outside of physics, he enjoys hiking, exploring Boston, and is an avid baker!
 
