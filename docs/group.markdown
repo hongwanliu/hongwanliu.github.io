@@ -24,6 +24,15 @@ Ethan is a physics PhD student at Boston University. Before coming to BU, he gra
 
 <br>
 
+<img align="left" width="200" src="/images/group/Timothy_Launders.jpeg" hspace="20" vspace="30"/>
+<br>
+### Timothy Launders
+
+
+Tim is a physics PhD student at Boston University interested in the intersection between cosmology and particle physics. Currently, Tim is using Gaussian processes to obtain precise theoretical predictions for BBN. Outside of physics, Tim enjoys reading, camping, and playing the viola.
+
+<br>
+
 ## Undergraduates
 
 <img align="left" width="200" src="/images/group/Mehmet_Akharman.jpg" hspace="20" vspace="10" />
